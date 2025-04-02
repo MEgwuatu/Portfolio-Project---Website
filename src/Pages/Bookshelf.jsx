@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import Aos from 'aos';
 import "aos/dist/aos.css";
-import { shelf } from '../constants'
+import { shelf } from '../constants';
 import { useEffect } from 'react';
 const Bookshelf = () => {
 

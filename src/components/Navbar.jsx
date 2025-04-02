@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import { useState } from "react";
-import { Logo } from "../assets"
+import { Logo } from "../assets/index.js"
 import { AnimatePresence, motion } from "framer-motion";
 import { sideVariants, itemVariants } from '../utils/motion.js'
 import { FaGithub, FaLinkedin } from "react-icons/fa";

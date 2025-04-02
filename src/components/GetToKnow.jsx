@@ -3,7 +3,7 @@ import { know } from '../constants';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../utils/motion';
 import { useEffect, useState } from 'react';
-import { useInView } from 'react-intersection-observer';
+import  useInView  from 'react-intersection-observer';
 
 
 const GetToKnow = () => {

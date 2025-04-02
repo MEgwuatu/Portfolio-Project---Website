@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useInView } from 'react-intersection-observer';
+import  useInView  from 'react-intersection-observer';
 import { motion, useAnimation } from 'framer-motion';
 import { fadeIn } from "../utils/motion";
 import { projects } from "../constants";

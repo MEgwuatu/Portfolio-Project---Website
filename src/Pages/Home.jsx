@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { GetInTouch, GetToKnow, Hero, Projects } from '../components'
 import { Helmet } from 'react-helmet';
-import { sefe } from '../assets';
+import sefe  from '../assets';
 
 
 const Home = () => {

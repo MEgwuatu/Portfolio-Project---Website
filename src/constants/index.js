@@ -22,7 +22,7 @@ import {
   data,
   modern,
   eloquent,
-} from '../assets'
+} from '../assets/tech'
 
 import {
 CSS,
@@ -54,9 +54,9 @@ spotify
 
 const projects = [
 {
-name: "ProFolio",
+name: "Portfolio",
 description:
- "ProFolio is a resume builder web app. It is designed to streamline the process of crafting professional resumes, and it leverages modern web technologies like Firebase for authentication and data storage, and JsPdf to convert the resume into a downloadable document.",
+ "Portfolio is a resume builder web app. It is designed to streamline the process of crafting professional resumes, and it leverages modern web technologies like Firebase for authentication and data storage, and JsPdf to convert the resume into a downloadable document.",
 tags: [
  {
    name: "reactJS",
